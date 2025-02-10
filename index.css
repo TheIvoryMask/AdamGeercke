@@ -166,15 +166,7 @@ li {
     cursor: pointer;
 }
 
-.copyright {
-    bottom: 0;
-    left: 0;
-    padding: 5px;
-    color: rgba(84, 85, 173, 0.75);
-    font-size: 14px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 100;
-}
+
 
 #scroll {
     flex-direction: column;
@@ -196,7 +188,7 @@ li {
 
 .intro img {
     max-height: 300px;
-    width: auto;
+    width: 300px;
     object-fit: contain;
     border-radius: 50%;
 }
